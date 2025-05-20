@@ -10,4 +10,7 @@ public class EcoMarketApplication {
 		SpringApplication.run(EcoMarketApplication.class, args);
 	}
 
+	// Pueba de commit :))
+
+
 }
