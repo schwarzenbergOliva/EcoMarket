@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class ConexionBD {  // Conexion a base de datos
+public class ConexionBD {
     public static void main(String[] args) {
         String url = "jdbc:oracle:thin:@localhost:1521:xe";
         String usuario = "ECOMARKET";
