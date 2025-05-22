@@ -6,7 +6,7 @@ import java.sql.SQLException;
 
 public class ConexionBD {
     public static void main(String[] args) {
-        String url = "jdbc:oracle:thin:@localhost:1521:xe"; // Cambia según tu configuración
+        String url = "jdbc:oracle:thin:@localhost:1521:xe";
         String usuario = "ECOMARKET";
         String clave = "ECOMARKET";
 
