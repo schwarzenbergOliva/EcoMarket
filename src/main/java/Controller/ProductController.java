@@ -1,4 +1,4 @@
-package Controller;
+package Controller; // Controlador
 
 import Model.Product;
 import Service.ProductService;

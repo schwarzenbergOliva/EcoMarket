@@ -1,4 +1,5 @@
-package Repository;
+package Repository; // Repositorio
+
 
 import Model.Product;
 import org.springframework.stereotype.Repository;

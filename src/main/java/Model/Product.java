@@ -4,7 +4,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 @Setter
-@Getter
+@Getter // Modelo
 public class Product {
 
 
