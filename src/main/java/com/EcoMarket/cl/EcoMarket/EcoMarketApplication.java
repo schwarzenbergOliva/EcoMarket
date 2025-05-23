@@ -10,9 +10,4 @@ public class EcoMarketApplication {
 		SpringApplication.run(EcoMarketApplication.class, args);
 	}
 
-	// Pueba de commit :))
-	// Probando 123 alejandro
-	
-
-
 }
