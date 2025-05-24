@@ -1,4 +1,3 @@
-//Model
 package com.EcoMarket.cl.EcoMarket.model;
 
 import jakarta.persistence.*;

@@ -1,4 +1,3 @@
-// Service
 package com.EcoMarket.cl.EcoMarket.service;
 
 import com.EcoMarket.cl.EcoMarket.model.Product;
