@@ -10,6 +10,8 @@ import java.util.Optional;
 @Service
 @Transactional
 
+//Service
+
 public interface ProductService {
     Product save(Product product);
     List<Product> findAll();
