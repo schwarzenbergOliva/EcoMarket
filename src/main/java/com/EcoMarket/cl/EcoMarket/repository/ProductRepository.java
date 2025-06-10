@@ -12,7 +12,7 @@ public interface ProductRepository extends JpaRepository<Product, Long> {
 
     List<Product> findByName(String name);
 
-    List<Product> findByPrice(Number price);
+    List<Product> findByPrice(Integer price);
 
-    List<Product> findByStock(Number stock);
+    List<Product> findByStock(Integer stock);
 }

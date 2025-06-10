@@ -23,6 +23,7 @@ public class ProductController {
         return ResponseEntity.status(HttpStatus.CREATED).body(newProduct);
     }
 
+
     @GetMapping
     public ResponseEntity<List<Product>> getAllProducts() {
         List<Product> products = productService.findAll();
@@ -55,7 +56,4 @@ public class ProductController {
         }
         return ResponseEntity.notFound().build();
     }
-
-
-
 }
